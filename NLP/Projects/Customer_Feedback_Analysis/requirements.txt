@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+nltk
+requests
+seaborn
+spacy
+regex
+fastapi
+uvicorn
+regex

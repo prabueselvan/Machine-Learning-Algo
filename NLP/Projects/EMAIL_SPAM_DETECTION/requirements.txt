@@ -1,0 +1,12 @@
+fastapi
+matplotlib
+nltk
+spacy
+scikit-learn
+pandas
+numpy
+requests
+seaborn
+regex
+uvicorn
+joblib
